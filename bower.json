@@ -1,0 +1,17 @@
+{
+  "name": "datgui",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dat-gui": "dat.gui.js#^0.5.1"
+  }
+}
